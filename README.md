@@ -14,3 +14,7 @@ Investigate on the various Google hacking keywords and enumeration tools as foll
 
 Step 3:
 Open terminal and try execute some kali linux commands
+## PROGRAM:
+## OUTPUT:
+## RESULT:
+The program is executed successfully
